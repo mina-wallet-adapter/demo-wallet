@@ -1,2 +1,3 @@
-# test-wallet
-A reference test wallet to showcase how Mina Wallet Adapter can be integrated with Mina wallets
+# Mina Test Wallet
+
+A simple reference wallet for showcasing how Mina Wallet Adapter can be easily integrated with wallets supporting Mina Protocol.
