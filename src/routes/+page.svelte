@@ -1,1 +1,1 @@
-<h1>Mina Test Wallet</h1>
+<h1>Mina Demo Wallet</h1>

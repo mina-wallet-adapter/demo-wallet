@@ -1,5 +1,5 @@
 {
-	"name": "mina-test-wallet",
+	"name": "mina-demo-wallet",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {

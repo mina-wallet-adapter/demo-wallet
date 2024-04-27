@@ -1,11 +1,11 @@
 {
-	"name": "Mina Test Wallet",
+	"name": "Mina Demo Wallet",
 	"description": "A reference Mina wallet to showcase Mina Wallet Adapter",
 	"version": "0.0.1",
 	"manifest_version": 3,
 	"permissions": ["activeTab", "tabs", "alarms"],
 	"action": {
-		"default_title": "Mina Test Wallet",
+		"default_title": "Mina Demo Wallet",
 		"default_icon": "favicon.png",
 		"default_popup": "index.html"
 	}
