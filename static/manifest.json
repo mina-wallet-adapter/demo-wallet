@@ -4,6 +4,9 @@
 	"version": "0.0.1",
 	"manifest_version": 3,
 	"permissions": ["activeTab"],
+	"icons": {
+		"128": "favicon.png"
+	},
 	"action": {
 		"default_title": "Mina Demo Wallet",
 		"default_icon": "favicon.png",
